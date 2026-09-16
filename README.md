@@ -1,5 +1,7 @@
 # asm-cpu-vendor
 
+  > "If you can read assembly, then everything is open source."
+
 Retreive CPU vendor string with inline assembly code.
 
 Here is a breakdown of how the GCC extended inline assembly works in this context:
