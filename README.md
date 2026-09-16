@@ -1,6 +1,6 @@
 # asm-cpu-vendor
 
-  > "If you can read assembly, then everything is open source."
+  > "If you can read assembly, then everything is open source." -- Programmer Joke
 
 Retreive CPU vendor string with inline assembly code.
 
